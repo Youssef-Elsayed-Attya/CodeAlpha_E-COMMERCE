@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14484286748",
+    "firebase_url": "https://finialchat-default-rtdb.firebaseio.com",
+    "project_id": "finialchat",
+    "storage_bucket": "finialchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14484286748:android:68c57754ccff37768eded9",
+        "android_client_info": {
+          "package_name": "com.sneakers.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14484286748-o278kplp329shfpacigf52mqhhmr71is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7X_ELyww-wqUXuymIjMCy7PYpvaL4Ztc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14484286748-o278kplp329shfpacigf52mqhhmr71is.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "14484286748-aferr487icki367qr9lve6ssksev7c32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finialChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

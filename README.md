@@ -1,4 +1,4 @@
-# sneakers
+# E-COMMERCE
 
 A new Flutter project.
 
